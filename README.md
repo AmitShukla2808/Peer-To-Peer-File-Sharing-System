@@ -335,8 +335,8 @@ exit
 │                                                     │
 │  ┌───────────────────┐      ┌────────────────────┐  │
 │  │                   │      │                    │  │
-│  │  Command Loop     │      │  Peer Server      │  │
-│  │  (Main Thread)    │      │  (Background)     │  │
+│  │  Command Loop     │      │  Peer Server       │  │
+│  │  (Main Thread)    │      │  (Background)      │  │
 │  │                   │      │                    │  │
 │  └─────────┬─────────┘      └──────────┬─────────┘  │
 │            │                           │            │
